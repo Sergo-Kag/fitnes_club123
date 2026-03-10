@@ -9,6 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
 
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -22,3 +23,4 @@
     </application>
 
 </manifest>
+
